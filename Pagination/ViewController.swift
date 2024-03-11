@@ -47,5 +47,8 @@ class ViewController: UIViewController,UITableViewDataSource {
             }
         })
     }
+    func small(){
+        print("hi every one")
+    }
 }
 
